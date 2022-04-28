@@ -15,12 +15,6 @@ header {
     display: grid;
 }
 
-/*.grid-container{
-    display:grid;
-    grid-template-columns: auto auto auto auto;
-    display: inline-block;
-    
-}*/
 .inline {
     display: inline;
 }
